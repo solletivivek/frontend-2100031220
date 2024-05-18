@@ -2,13 +2,13 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 
 const data = [
-  { id: 1, name: "Aarav Sharma", age: 30, email: "aarav.sharma@example.com" },
-  { id: 2, name: "Aaradhya Patel", age: 25, email: "aaradhya.patel@example.com" },
-  { id: 3, name: "Aarav Singh", age: 35, email: "aarav.singh@example.com" },
-  { id: 4, name: "Advait Desai", age: 40, email: "advait.desai@example.com" },
-  { id: 5, name: "Aditi Gupta", age: 28, email: "aditi.gupta@example.com" },
-  { id: 6, name: "Ahana Kumar", age: 50, email: "ahana.kumar@example.com" },
-  { id: 7, name: "Aisha Mehta", age: 22, email: "aisha.mehta@example.com" }
+  { id: 1, name: "apple", age: 30, email: "apple@gmail.com" },
+  { id: 2, name: "tele", age: 25, email: "tele@gmail.com" },
+  { id: 3, name: "teja", age: 35, email: "teja@gmail.com" },
+  { id: 4, name: "charan", age: 40, email: "charan@gmail.com" },
+  { id: 5, name: "varun", age: 28, email: "varun@gmail.com" },
+  { id: 6, name: "varshith", age: 50, email: "varshith@gmail.com" },
+  { id: 7, name: "vivek", age: 22, email: "vivek@gmail.com" }
 ];
 
 
